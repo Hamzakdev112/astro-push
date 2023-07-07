@@ -1,0 +1,8 @@
+name = "astro-react"
+type = "webpack"
+route = ''
+zone_id = 'a4d2ef7e693b4c9d40a6a0d8e88b45be'
+usage_model = 'bundled'
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2023-07-07"
